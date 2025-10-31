@@ -2,18 +2,15 @@
 Practice building a transformer from scratch with python
 
 Fundamental blocks of a transformer:   
-
  a.) Encoder
  b.) Decoder
 
-Components of encoder/decoder blocks: 
-
+Components of encoder/decoder blocks:   
  a.) one Encoder block
    1. embedding inputs
    2. positional encoding
    3. MHA: multi-head attention (layer norm + Residual connection)
-   4. FFN: feed-forward network (layer norm + Residual connection)
-      
+   4. FFN: feed-forward network (layer norm + Residual connection)  
  b.) one Decoder block
    1. embedding inputs
    2. positional encoding
