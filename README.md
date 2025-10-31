@@ -2,7 +2,7 @@
 Practice building a transformer from scratch with python
 
 Fundamental blocks of a transformer:   
- a.) Encoder
+ a.) Encoder  
  b.) Decoder
 
 Components of encoder/decoder blocks:   
