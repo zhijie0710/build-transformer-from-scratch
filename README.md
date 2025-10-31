@@ -1,11 +1,11 @@
 # build-transformer-from-scratch
-practice building a transformer from scratch with python
+Practice building a transformer from scratch with python
 
-fundamental blocks of a transformer 
+Fundamental blocks of a transformer: 
  a.) Encoder
  b.) Decoder
 
-
+Components of encoder/decoder blocks:
  a.) one Encoder block
    1. embedding inputs
    2. positional encoding
